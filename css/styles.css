@@ -1,0 +1,33 @@
+body {
+  background-color: #F6E7D8;
+  font-family: Helvetica, sans-serif;
+}
+
+hr {
+  /* background-color: white; */
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: #F68989;
+  height: -5px;
+  width: 5%;
+}
+
+img {
+  height: 250px;
+}
+
+h1 {
+  color: #C65D7B;
+}
+
+h3 {
+  color: #F68989;
+}
+
+a:link {
+  color: #F68989;
+}
+
+a:hover {
+  color: #C65D7B;
+}
